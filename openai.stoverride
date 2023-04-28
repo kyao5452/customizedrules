@@ -1,0 +1,13 @@
+name: 在线规则覆写
+desc: 添加分组&规则：openai
+
+proxy-groups:
+  - name:
+      🤖 OpenAI
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - ♻️ 自动选择
+
+rules:
+ - DOMAIN-SUFFIX,openai.com, ♻️ 自动选择
