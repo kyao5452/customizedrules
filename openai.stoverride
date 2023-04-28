@@ -1,4 +1,4 @@
-name: 在线规则覆写
+name: OpenAI单独分流规则
 desc: 添加分组&规则：openai
 
 proxy-groups:
