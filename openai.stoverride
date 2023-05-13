@@ -6,16 +6,6 @@ proxy-groups:
       🤖 OpenAI
     type: select
     proxies:
-      - '♻️ 自动选择'
-      - '🔮 负载均衡'
-      - '🔯 故障转移'
-      - （VIP1）新加坡SG1
-      - （VIP1）新加坡SG2
-      - （VIP1）日本JP1
-      - （VIP1）美国US1
-      - （VIP1）韩国KR1
-      - '（VIP2）俄罗斯RU1 CN2线路'
-      - '（VIP2）日本JP2 东京IIJ线路'
       - '（VIP2）日本JP3 东京IIJ线路（ChatGPT解锁）'
       - '（VIP2）美国US2 电信CN2 GIA线路'
       - '（VIP3）美国US3 电信CN2 GIA线路（ChatGPT解锁测试）'
